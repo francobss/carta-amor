@@ -13,6 +13,7 @@ const RomanticLetter = () => {
         "Como siempre te digo, por mas que el cielo este lleno de estrellas, no hay estrella mas grande y hermosa como la luna, tan unica y brillante.",
         "Y ojala nunca olvides ese brillo y belleza tan caracteristica y unica que tenes, y no tan solo hablo de lo que los ojos ven, sino de lo que demostras con tus acciones.",
         "Mujeres lindas abundan en el planeta, no lo crees? pero mujeres hermosas y con un hermoso corazon, son de otro planeta, entendes tu diferencia ante el resto de las demas? no tan solo sos hermosa, tambien tenes un hermoso corazon.",
+        "Nunca lo olvides, sos una hermosa mujer con un precioso corazon❤️.",
         "Con todo cariño,",
         "Yo ✨"
         ]
