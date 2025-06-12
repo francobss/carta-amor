@@ -10,7 +10,7 @@ const RomanticLetter = () => {
         paragraphs: [
         "Hoy quiero recordarte algo que quizás a veces olvidas: eres increíblemente hermosa, tanto por fuera como por dentro.",
         "No creo nunca tener las palabras correctas, menos para describir a alguien grandiosa, hermosa y brillante como vos, pero aveces debemos tomarnos atrevimientos muy grandes y jugarnosla.",
-        "Como siempre te digo, por mas que el cielo este lleno de estrellas, no hya estrella mas grande y hermosa como la luna, tan unica y brillante.",
+        "Como siempre te digo, por mas que el cielo este lleno de estrellas, no hay estrella mas grande y hermosa como la luna, tan unica y brillante.",
         "Y ojala nunca olvides ese brillo y belleza tan caracteristica y unica que tenes, y no tan solo hablo de lo que los ojos ven, sino de lo que demostras con tus acciones.",
         "Mujeres lindas abundan en el planeta, no lo crees? pero mujeres hermosas y con un hermoso corazon, son de otro planeta, entendes tu diferencia ante el resto de las demas? no tan solo sos hermosa, tambien tenes un hermoso corazon.",
         "Con todo cariño,",
